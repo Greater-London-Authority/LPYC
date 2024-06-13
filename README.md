@@ -4,8 +4,8 @@ Data and scripts for the charts in report London's Population of Young Children
 This project contains scripts for creating the charts in the report “London’s population of young children – current and future”.
 The report is available on the GLA Datastore, available here https://data.london.gov.uk/dataset/london-s-population-of-young-children---current-and-future
 
-Links to the original data sources are provided in the report. This folder only includes the data (in the folder Data_for_Github) needed to create the charts, together with the R scripts (in the folder Scripts_for_Github).
-The charts without titles are included in the folder Charts_for_Github. 
+Links to the original data sources are provided in the report. This folder only includes the data (in the folder "Data_for_Github") needed to create the charts, together with the R scripts (in the folder "Scripts_for_Github").
+The charts corresponding to the numbers in the column "CHART NUMBER" are included in the folder "Charts_for_Github". 
 
 Some data files could not be uploaded as they are larger than Github's maximum permitted. These can be provided on request. 
 
